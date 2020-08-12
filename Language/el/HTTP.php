@@ -52,26 +52,26 @@ return [
    'malformedQueryString'       => 'Query strings may not include URI fragments.',
 
 	// Page Not Found
-   'pageNotFound'               => 'Page Not Found',
-   'emptyController'            => 'No Controller specified.',
-   'controllerNotFound'         => 'Controller or its method is not found: {0}::{1}',
-   'methodNotFound'             => 'Controller method is not found: {0}',
+   'pageNotFound'               => 'Η σελίδα δεν βρέθηκε',
+   'emptyController'            => 'Δεν έχει οριστεί Controller.',
+   'controllerNotFound'         => 'Ο Controller η μέθοδος του method δεν βρέθηκαν: {0}::{1}',
+   'methodNotFound'             => 'Η μέθοδος του Controller δεν βρέθηκε: {0}',
 
 	// CSRF
-   'disallowedAction'           => 'The action you requested is not allowed.',
+   'disallowedAction'           => 'Η ενέργεια που ζητήσατε δεν επιτρέπεται.',
 
 	// Uploaded file moving
    'alreadyMoved'               => 'The uploaded file has already been moved.',
    'invalidFile'                => 'The original file is not a valid file.',
    'moveFailed'                 => 'Could not move file {0} to {1} ({2})',
 
-   'uploadErrOk'                => 'The file uploaded with success.',
-   'uploadErrIniSize'           => 'The file "%s" exceeds your upload_max_filesize ini directive.',
-   'uploadErrFormSize'          => 'The file "%s" exceeds the upload limit defined in your form.',
-   'uploadErrPartial'           => 'The file "%s" was only partially uploaded.',
-   'uploadErrNoFile'            => 'No file was uploaded.',
-   'uploadErrCantWrite'         => 'The file "%s" could not be written on disk.',
-   'uploadErrNoTmpDir'          => 'File could not be uploaded: missing temporary directory.',
-   'uploadErrExtension'         => 'File upload was stopped by a PHP extension.',
-   'uploadErrUnknown'           => 'The file "%s" was not uploaded due to an unknown error.',
+   'uploadErrOk'                => 'Το αρχείο μεταφορτώθηκε με επιτυχία.',
+   'uploadErrIniSize'           => 'Το αρχείο "%s" exceeds your upload_max_filesize ini directive.',
+   'uploadErrFormSize'          => 'Το αρχείο "%s" exceeds the upload limit defined in your form.',
+   'uploadErrPartial'           => 'Το αρχείο "%s" was only partially uploaded.',
+   'uploadErrNoFile'            => 'Δεν μεταφορτώθηκε κανένα αρχείο.',
+   'uploadErrCantWrite'         => 'Το αρχείο "%s" δεν ήταν δυνατό να γραφτεί στον δίσκο.',
+   'uploadErrNoTmpDir'          => 'Το αρχείο δεν ήταν δυνατόν να μεταφορτωθεί: λείπει ο προσωρινός φάκελος.',
+   'uploadErrExtension'         => 'Η μεταφορτώση του αρχείου διακόπηκε από επέκταση της PHP.',
+   'uploadErrUnknown'           => 'Το αρχείο "%s" δεν μεταφορτώθηκε λόγω άγνωστου σφάλματος.',
 ];
