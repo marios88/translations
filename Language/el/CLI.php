@@ -15,18 +15,18 @@
  */
 
 return [
-   'commandNotFound'     => 'Command "{0}" not found.',
-   'altCommandSingular'  => 'Did you mean this?',
-   'altCommandPlural'    => 'Did you mean one of these?',
-   'helpUsage'           => 'Usage:',
-   'helpDescription'     => 'Description:',
-   'helpOptions'         => 'Options:',
+   'commandNotFound'     => 'Η εντολή "{0}" δεν βρέθηκε.',
+   'altCommandSingular'  => 'Μήπως εννούσατε;',
+   'altCommandPlural'    => 'Μήπως εννούσατε ένα από αυτά;',
+   'helpUsage'           => 'Χρήση:',
+   'helpDescription'     => 'Περιγραφή:',
+   'helpOptions'         => 'Επιλογές:',
    'helpArguments'       => 'Arguments:',
-   'invalidColor'        => 'Invalid {0} color: {1}.',
+   'invalidColor'        => 'Μη έγκυρο {0} χρώμα: {1}.',
 
    // Generators
-   'generateFileExists'  => '{0} already exists.',
-   'generateFileSuccess' => 'Created file: ',
-   'generateFileError'   => 'Error in creating file: ',
-   'namespaceNotDefined' => 'Namespace "{0}" is not defined.',
+   'generateFileExists'  => '{0} υπάρχει ήδη.',
+   'generateFileSuccess' => 'Αρχείο που δημιουργήθηκε: ',
+   'generateFileError'   => 'Σφάλμα κατά την δημιουργία του αρχείου: ',
+   'namespaceNotDefined' => 'Το Namespace "{0}" δεν είναι καθορισμένο.',
 ];
