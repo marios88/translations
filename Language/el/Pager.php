@@ -15,13 +15,13 @@
  */
 
 return [
-   'pageNavigation'         => 'Page navigation',
-   'first'                  => 'First',
-   'previous'               => 'Previous',
-   'next'                   => 'Next',
-   'last'                   => 'Last',
-   'older'                  => 'Older',
-   'newer'                  => 'Newer',
-   'invalidTemplate'        => '{0} is not a valid Pager template.',
-   'invalidPaginationGroup' => '{0} is not a valid Pagination group.',
+   'pageNavigation'         => 'Πλοήγηση σελίδας',
+   'first'                  => 'Πρώτο',
+   'previous'               => 'Προηγούμενο',
+   'next'                   => 'Επόμενο',
+   'last'                   => 'Τελευταίο',
+   'older'                  => 'Παλαιότερο',
+   'newer'                  => 'Νεότερο',
+   'invalidTemplate'        => '{0} δεν είναι έγκυρο πρότυπο Σελιδοποιητή.',
+   'invalidPaginationGroup' => '{0} δεν είναι έγκυρη ομάδα Σελιδοποίησης.',
 ];
