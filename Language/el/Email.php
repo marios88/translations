@@ -15,7 +15,7 @@
 
 return [
    'mustBeArray'          => 'The email validation method must be passed an array.',
-   'invalidAddress'       => 'Invalid email address: {0}',
+   'invalidAddress'       => 'Λανθασμένη διεύθυνση email: {0}',
    'attachmentMissing'    => 'Unable to locate the following email attachment: {0}',
    'attachmentUnreadable' => 'Unable to open this attachment: {0}',
    'noFrom'               => 'Cannot send mail with no "From" header.',
